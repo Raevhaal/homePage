@@ -1,0 +1,17 @@
+/* Darkmode scrollbar */
+:root {
+    color-scheme: dark;
+}
+
+/* Hides text */
+.superHidden{
+    font-size: 0px;
+    display: inline; 
+    position: absolute;
+    clip: rect(0,0,0,0);
+}
+
+img.banner{
+    width: 80%;
+    aspect-ratio: 3 / 1;
+}
